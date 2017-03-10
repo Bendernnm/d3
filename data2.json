@@ -1,0 +1,79 @@
+[
+  {
+    "name": "123",
+    "status": "GOOD SERVICE",
+    "text": [],
+    "Date": [],
+    "Time": []
+  },
+  {
+    "name": "456",
+    "status": "DELAYS",
+    "text": "&lt;span class=\"TitleDelay\"&gt;Delays&lt;/span&gt;\n                &lt;span class=\"DateStyle\"&gt;\n                &nbsp;Posted:&nbsp;02/22/2017&nbsp; 5:57PM\n                &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;\n                Following an earlier incident at &lt;STRONG&gt;Atlantic Av-Barclays Ctr&lt;/STRONG&gt;, [4] and [5]\n                train service has resumed with delays.\n                &lt;br/&gt;&lt;br/&gt;",
+    "Date": "02/22/2017",
+    "Time": "5:57PM"
+  },
+  {
+    "name": "7",
+    "status": "GOOD SERVICE",
+    "text": [],
+    "Date": [],
+    "Time": []
+  },
+  {
+    "name": "ACE",
+    "status": "DELAYS",
+    "text": "&lt;span class=\"TitleDelay\"&gt;Delays&lt;/span&gt;\n                &lt;span class=\"DateStyle\"&gt;\n                &nbsp;Posted:&nbsp;02/22/2017&nbsp; 5:29PM\n                &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;\n                Following an earlier incident at &lt;STRONG&gt;175 St&lt;/STRONG&gt;, [A] and [C] train service has\n                resumed with delays.\n                &lt;br/&gt;&lt;br/&gt;\n\n                &lt;span class=\"TitleServiceChange\" &gt;Service Change&lt;/span&gt;\n                &lt;span class=\"DateStyle\"&gt;\n                &nbsp;Posted:&nbsp;02/22/2017&nbsp; 5:04PM\n                &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;\n                &lt;P&gt;Due to signal problems at&lt;STRONG&gt; Kew Gardens-Union Tpke&lt;/STRONG&gt;, northbound [E]\n                and [F] trains are running express from &lt;STRONG&gt;Forest Hills-71 Av&lt;/STRONG&gt; to&lt;STRONG&gt;\n                Kew Gardens-Union Tpke&lt;/STRONG&gt;.&lt;/P&gt;\n                &lt;P&gt;Allow additional travel time.&lt;/P&gt;\n                &lt;br/&gt;&lt;br/&gt;",
+    "Date": "02/22/2017",
+    "Time": "5:29PM"
+  },
+  {
+    "name": "BDFM",
+    "status": "SERVICE CHANGE",
+    "text": "&lt;span class=\"TitleServiceChange\" &gt;Service Change&lt;/span&gt;\n                &lt;span class=\"DateStyle\"&gt;\n                &nbsp;Posted:&nbsp;02/22/2017&nbsp; 5:04PM\n                &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;\n                &lt;P&gt;Due to signal problems at&lt;STRONG&gt; Kew Gardens-Union Tpke&lt;/STRONG&gt;, northbound [E]\n                and [F] trains are running express from &lt;STRONG&gt;Forest Hills-71 Av&lt;/STRONG&gt; to&lt;STRONG&gt;\n                Kew Gardens-Union Tpke&lt;/STRONG&gt;.&lt;/P&gt;\n                &lt;P&gt;Allow additional travel time.&lt;/P&gt;\n                &lt;br/&gt;&lt;br/&gt;\n\n                &lt;span class=\"TitleDelay\"&gt;Delays&lt;/span&gt;\n                &lt;span class=\"DateStyle\"&gt;\n                &nbsp;Posted:&nbsp;02/22/2017&nbsp; 4:00PM\n                &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;\n                &lt;P&gt;Due to track maintenance at &lt;STRONG&gt;Middle-Village-Metropolitan Av&lt;/STRONG&gt;, [M]\n                trains are running with delays in both directions. &lt;/P&gt;\n                &lt;P&gt;Allow additional travel time.&lt;/P&gt;\n                &lt;br/&gt;&lt;br/&gt;",
+    "Date": "02/22/2017",
+    "Time": "5:04PM"
+  },
+  {
+    "name": "G",
+    "status": "GOOD SERVICE",
+    "text": [],
+    "Date": [],
+    "Time": []
+  },
+  {
+    "name": "JZ",
+    "status": "GOOD SERVICE",
+    "text": [],
+    "Date": [],
+    "Time": []
+  },
+  {
+    "name": "L",
+    "status": "GOOD SERVICE",
+    "text": [],
+    "Date": [],
+    "Time": []
+  },
+  {
+    "name": "NQR",
+    "status": "GOOD SERVICE",
+    "text": [],
+    "Date": [],
+    "Time": []
+  },
+  {
+    "name": "S",
+    "status": "GOOD SERVICE",
+    "text": [],
+    "Date": [],
+    "Time": []
+  },
+  {
+    "name": "SIR",
+    "status": "GOOD SERVICE",
+    "text": [],
+    "Date": [],
+    "Time": []
+  }
+]
